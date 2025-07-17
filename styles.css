@@ -54,8 +54,8 @@ input {
 }
 
 .thumbnail {
-    height: 315px;
-    width: 270px;
+    max-height: 315px;
+    max-width: 270px;
     border-radius: 19px;
 }
 
